@@ -1,0 +1,5 @@
+﻿  BITMAP.cpp
+C:\Users\stas\Desktop\232\lab3\Dll1\BITMAP.cpp(10,1): warning C4273: LoadBitmapFunc: несовместимое связывание dll
+C:\Users\stas\Desktop\232\lab3\Dll1\BITMAP.h(13,38): message : см. предыдущее определение "LoadBitmapFunc"
+     Создается библиотека C:\Users\stas\Desktop\232\lab3\Debug\Dll1.lib и объект C:\Users\stas\Desktop\232\lab3\Debug\Dll1.exp
+  Dll1.vcxproj -> C:\Users\stas\Desktop\232\lab3\Debug\Dll1.dll
